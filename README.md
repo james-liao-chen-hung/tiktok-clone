@@ -8,6 +8,10 @@
 6. npm i @material-ui/icons
 7. npm i firebase
 
+## Use firebase database to read and write
+
+Please new your own database in firebase and update the firebase.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
